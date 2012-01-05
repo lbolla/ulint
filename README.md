@@ -19,4 +19,4 @@ $> python setup.py install
 Usage
 -----
 
-$> ulint <filename>
+$> ulint _filename_
