@@ -1,0 +1,10 @@
+Universal Lint
+==============
+
+Wrapper around commonly used linters.
+
+
+Install
+-------
+
+$> python setup.py install
